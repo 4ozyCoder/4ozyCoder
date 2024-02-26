@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer from Russia</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me in Telegramm: @Waldemar_bk</h3>
 <p align="left">
 </p>
 
