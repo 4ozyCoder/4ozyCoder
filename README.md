@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate backend developer from Russia</h3>
 
-<h3 align="left">Connect with me in Telegram: @wJ6PDaNkS9q2Aib7fqj27jGw24dQR3NT</h3>
+<h3 align="left">Connect with me in Telegram: @UokfH8YU66gLeD4e3NGBxBef6GEaMWDD</h3>
 <p align="left">
 </p>
 
